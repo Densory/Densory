@@ -39,8 +39,6 @@
   </details>
   <br><br>
 </div>
-  <!-- Empfehlung: Ein 800x200px Banner im modernen, minimalistischen Dark-Mode (z.B. schwarzer Hintergrund, feiner grüner Akzent) -->
-  <!-- <img src="https://via.placeholder.com/800x200/0e0e10/43b581?text=Densory+-+Premium+Discord+%26+FiveM+Solutions" alt="Densory – Premium Discord Bots & FiveM Scripts"> -->
 
   # Densory – Premium Discord Bots & FiveM Scripts
   
