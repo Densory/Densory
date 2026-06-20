@@ -4,7 +4,7 @@
 
   # Densory – Premium Discord Bots & FiveM Scripts
   
-  **[Produkte entdecken](https://densory.com/shop) • [Densory Dashboard](https://densory.com) • [FAQ & Support](https://densory.com)**
+  **[Produkte entdecken](https://densory.com/shop) • [Densory Dashboard](https://densory.com) • [FAQ & Support](https://densory.com/)**
   
   [![Website](https://img.shields.io/badge/Website-densory.com-0e0e10?style=for-the-badge&logo=googlechrome&logoColor=43b581)](https://densory.com)
   [![Discord](https://img.shields.io/badge/Discord-Community-0e0e10?style=for-the-badge&logo=discord&logoColor=7289da)](https://discord.gg/densory)
