@@ -9,10 +9,18 @@
   <details>
     <summary>View all 29 supported languages</summary>
     <br>
-    <a href="README-it.md">🇮🇹 Italiano</a> | <a href="README-pl.md">🇵🇱 Polski</a> | <a href="README-nl.md">🇳🇱 Nederlands</a> | <a href="README-pt.md">🇵🇹 Português</a> | <a href="README-ru.md">🇷🇺 Русский</a>
+    <a href="README-ru.md">🇷🇺 Русский</a> | <a href="README-pt.md">🇵🇹 Português</a> | <a href="README-zh.md">🇨🇳 中文</a> | <a href="README-it.md">🇮🇹 Italiano</a> | <a href="README-pl.md">🇵🇱 Polski</a>
+    <br>
+    <a href="README-nl.md">🇳🇱 Nederlands</a> | <a href="README-ja.md">🇯🇵 日本語</a> | <a href="README-ko.md">🇰🇷 한국어</a> | <a href="README-hi.md">🇮🇳 हिन्दी</a> | <a href="README-id.md">🇮🇩 Bahasa Indonesia</a>
+    <br>
+    <a href="README-vi.md">🇻🇳 Tiếng Việt</a> | <a href="README-th.md">🇹🇭 ไทย</a> | <a href="README-sv.md">🇸🇪 Svenska</a> | <a href="README-da.md">🇩🇰 Dansk</a> | <a href="README-no.md">🇳🇴 Norsk</a>
+    <br>
+    <a href="README-fi.md">🇫🇮 Suomi</a> | <a href="README-cs.md">🇨🇿 Čeština</a> | <a href="README-hu.md">🇭🇺 Magyar</a> | <a href="README-ro.md">🇷🇴 Română</a> | <a href="README-el.md">🇬🇷 Ελληνικά</a>
+    <br>
+    <a href="README-uk.md">🇺🇦 Українська</a> | <a href="README-hr.md">🇭🇷 Hrvatski</a> | <a href="README-bg.md">🇧🇬 Български</a> | <a href="README-lt.md">🇱🇹 Lietuvių</a>
   </details>
   <br><br>
-
+</div>
   <!-- Empfehlung: Ein 800x200px Banner im modernen, minimalistischen Dark-Mode (z.B. schwarzer Hintergrund, feiner grüner Akzent) -->
   <!-- <img src="https://via.placeholder.com/800x200/0e0e10/43b581?text=Densory+-+Premium+Discord+%26+FiveM+Solutions" alt="Densory – Premium Discord Bots & FiveM Scripts"> -->
 
