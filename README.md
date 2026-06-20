@@ -53,41 +53,41 @@
 ---
 
 ## 🚀 The Platform for Professional Community Management
-**Densory** is the leading all-in-one solution for growing server projects. We develop high-performance **Discord bot systems** and **FiveM scripts** specifically designed to give you full control over your community[cite: 1]. 
+**Densory** is the leading all-in-one solution for growing server projects. We develop high-performance **Discord bot systems** and **FiveM scripts** specifically designed to give you full control over your community. 
 
-Whether it's moderation, security, complex logging, or in-game features – we provide the technology, you keep the control. Everything is managed via our centralized **Densory Control Center**[cite: 1].
+Whether it's moderation, security, complex logging, or in-game features – we provide the technology, you keep the control. Everything is managed via our centralized **Densory Control Center**.
 
 ### ✨ Why Densory? (Our USPs)
 
 | Feature | Description |
 | :--- | :--- |
-| 🏷️ **100% White-Label** | Your brand, your name, your colors[cite: 1]. Externally, you are the developer. No annoying third-party branding in your embeds. |
-| 🖥️ **Flexible Hosting** | **100% Self-Hosted:** Host the bots & scripts on your own server for full data control[cite: 1]. <br>**Or Densory Managed Hosting:** Don't want to maintain your own server? Use our optional hosting with 99% uptime[cite: 1]. |
-| ⚡ **Instant Activation** | No waiting times. All digital goods and licenses are unlocked in your dashboard immediately after payment (PayPal or Crypto)[cite: 1]. |
-| 🎁 **Free Trials** | See for yourself: We offer free trial licenses for selected products – without needing to provide any payment details[cite: 1]. |
+| 🏷️ **100% White-Label** | Your brand, your name, your colors. Externally, you are the developer. No annoying third-party branding in your embeds. |
+| 🖥️ **Flexible Hosting** | **100% Self-Hosted:** Host the bots & scripts on your own server for full data control. <br>**Or Densory Managed Hosting:** Don't want to maintain your own server? Use our optional hosting with 99% uptime. |
+| ⚡ **Instant Activation** | No waiting times. All digital goods and licenses are unlocked in your dashboard immediately after payment (PayPal or Crypto). |
+| 🎁 **Free Trials** | See for yourself: We offer free trial licenses for selected products – without needing to provide any payment details. |
 
 ---
 
 ## 🛠️ Our Premium Core Products
 
 ### 🤖 Discord Bot Systems
-Our production-ready bots cover every area of a professional Discord server and are ready to use in minutes[cite: 1]:
+Our production-ready bots cover every area of a professional Discord server and are ready to use in minutes:
 
-*   🛡️ **Security & Anti-Nuke:** Protect your server from raids[cite: 1]. Includes phishing domain detection (Threat-Feed), auto-moderation, and escalation systems[cite: 1].
-*   🔐 **Verify & Authentication:** The most secure gate for your community. Featuring alt-account detection (browser fingerprinting), VPN blocker, and Captcha integration[cite: 1].
-*   📊 **Logger & Analytics:** Keep track of everything. Detailed audit logs, server statistics, live metrics, and a Custom API to log external systems (like FiveM) directly into Discord[cite: 1].
-*   💬 **Discord Manager:** Control your server directly from the Densory Dashboard! Send embeds, read live chat, analyze messages, and create automated schedules (Automations)[cite: 1].
+*   🛡️ **Security & Anti-Nuke:** Protect your server from raids. Includes phishing domain detection (Threat-Feed), auto-moderation, and escalation systems.
+*   🔐 **Verify & Authentication:** The most secure gate for your community. Featuring alt-account detection (browser fingerprinting), VPN blocker, and Captcha integration.
+*   📊 **Logger & Analytics:** Keep track of everything. Detailed audit logs, server statistics, live metrics, and a Custom API to log external systems (like FiveM) directly into Discord.
+*   💬 **Discord Manager:** Control your server directly from the Densory Dashboard! Send embeds, read live chat, analyze messages, and create automated schedules (Automations).
 
 ### 🏎️ FiveM Scripts
-Developed for maximum performance. Our scripts seamlessly integrate into your existing framework (ESX / QBCore) and expand your server with deep, resource-friendly features[cite: 1]. Through direct connection to the Densory Dashboard, you can monitor in-game metrics and logs in real-time[cite: 1].
+Developed for maximum performance. Our scripts seamlessly integrate into your existing framework (ESX / QBCore) and expand your server with deep, resource-friendly features. Through direct connection to the Densory Dashboard, you can monitor in-game metrics and logs in real-time.
 
 ---
 
 ## ⚙️ The Densory Control Center
-The heart of your infrastructure. A modern, secure web interface offering you the following possibilities[cite: 1]:
-- **License Management:** Extend, upgrade, or transfer products to other servers[cite: 1].
-- **Team Collaboration:** Integrated team chat and shared settings (share product configurations via share code)[cite: 1].
-- **Secure Payments:** Transparent billing via PayPal and cryptocurrencies (Bitcoin, Ethereum, Solana, etc.)[cite: 1].
+The heart of your infrastructure. A modern, secure web interface offering you the following possibilities:
+- **License Management:** Extend, upgrade, or transfer products to other servers.
+- **Team Collaboration:** Integrated team chat and shared settings (share product configurations via share code).
+- **Secure Payments:** Transparent billing via PayPal and cryptocurrencies (Bitcoin, Ethereum, Solana, etc.).
 
 ---
 
