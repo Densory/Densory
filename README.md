@@ -1,5 +1,4 @@
 <div align="center">
-  🌍 <b>Languages:</b> 
   <a href="README.md"><img src="https://flagcdn.com/w20/gb.png" width="16" alt="EN"> English</a> | 
   <a href="README-de.md"><img src="https://flagcdn.com/w20/de.png" width="16" alt="DE"> Deutsch</a> | 
   <a href="README-es.md"><img src="https://flagcdn.com/w20/es.png" width="16" alt="ES"> Español</a> | 
