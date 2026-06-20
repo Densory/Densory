@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Empfehlung: Ein 800x200px Banner im modernen, minimalistischen Dark-Mode (z.B. schwarzer Hintergrund, feiner grüner Akzent) -->
-  <img src="https://via.placeholder.com/800x200/0e0e10/43b581?text=Densory+-+Premium+Discord+%26+FiveM+Solutions" alt="Densory – Premium Discord Bots & FiveM Scripts">
+  <!-- <img src="https://via.placeholder.com/800x200/0e0e10/43b581?text=Densory+-+Premium+Discord+%26+FiveM+Solutions" alt="Densory – Premium Discord Bots & FiveM Scripts"> -->
 
   # Densory – Premium Discord Bots & FiveM Scripts
   
@@ -17,39 +17,39 @@
 ## 🚀 Die Plattform für professionelles Community Management
 **Densory** ist die führende All-in-One-Lösung für wachsende Server-Projekte. Wir entwickeln performante **Discord Botsysteme** und **FiveM Scripts**, die speziell darauf ausgelegt sind, dir die volle Kontrolle über deine Community zu geben. 
 
-Egal ob Moderation, Security, komplexes Logging oder In-Game-Features – wir liefern die Technik, du behältst die Kontrolle. Alles verwaltet über unser zentrales **Densory Control Center**[cite: 1].
+Egal ob Moderation, Security, komplexes Logging oder In-Game-Features – wir liefern die Technik, du behältst die Kontrolle. Alles verwaltet über unser zentrales **Densory Control Center**.
 
 ### ✨ Warum Densory? (Unsere USPs)
 
 | Feature | Beschreibung |
 | :--- | :--- |
-| 🏷️ **100% White-Label** | Deine Marke, dein Name, deine Farben[cite: 1]. Nach außen hin bist du der Entwickler. Keine störende Fremdwerbung in deinen Embeds. |
-| 🖥️ **Flexible Hosting-Wahl** | **100% Self-Hosted:** Hoste die Bots & Scripts auf deinem eigenen Server (volle Datenkontrolle)[cite: 1]. <br>**Oder Densory Managed Hosting:** Du willst keinen eigenen Server pflegen? Nutze unser optionales Hosting mit 99% Uptime[cite: 1]. |
-| ⚡ **Sofortige Aktivierung** | Keine Wartezeiten. Alle digitalen Güter und Lizenzen werden direkt nach Zahlungseingang (PayPal oder Krypto) in deinem Dashboard freigeschaltet[cite: 1]. |
-| 🎁 **Kostenlos Testen** | Überzeuge dich selbst: Wir bieten für ausgewählte Produkte kostenlose Testlizenzen an – ganz ohne die Hinterlegung von Zahlungsdaten[cite: 1]. |
+| 🏷️ **100% White-Label** | Deine Marke, dein Name, deine Farben. Nach außen hin bist du der Entwickler. Keine störende Fremdwerbung in deinen Embeds. |
+| 🖥️ **Flexible Hosting-Wahl** | **100% Self-Hosted:** Hoste die Bots & Scripts auf deinem eigenen Server (volle Datenkontrolle). <br>**Oder Densory Managed Hosting:** Du willst keinen eigenen Server pflegen? Nutze unser optionales Hosting mit 99% Uptime. |
+| ⚡ **Sofortige Aktivierung** | Keine Wartezeiten. Alle digitalen Güter und Lizenzen werden direkt nach Zahlungseingang (PayPal oder Krypto) in deinem Dashboard freigeschaltet. |
+| 🎁 **Kostenlos Testen** | Überzeuge dich selbst: Wir bieten für ausgewählte Produkte kostenlose Testlizenzen an – ganz ohne die Hinterlegung von Zahlungsdaten. |
 
 ---
 
 ## 🛠️ Unsere Premium Kernprodukte
 
 ### 🤖 Discord Botsysteme
-Unsere produktionsreifen Bots decken jeden Bereich eines professionellen Discord-Servers ab und sind in wenigen Minuten einsatzbereit[cite: 1]:
+Unsere produktionsreifen Bots decken jeden Bereich eines professionellen Discord-Servers ab und sind in wenigen Minuten einsatzbereit:
 
-*   🛡️ **Security & Anti-Nuke:** Schütze deinen Server vor Raids. Inklusive Phishing-Domain-Erkennung (Threat-Feed), Auto-Moderation und Eskalations-Systemen[cite: 1].
-*   🔐 **Verify & Authentifizierung:** Das sicherste Gate für deine Community. Mit Alt-Account-Erkennung (Browser-Fingerprinting), VPN-Blocker und Captcha-Integration[cite: 1].
-*   📊 **Logger & Analytics:** Behalte alles im Blick. Detaillierte Audit-Logs, Server-Statistiken, Live-Metriken und eine Custom-API, um externe Systeme (wie FiveM) direkt in Discord zu loggen[cite: 1].
-*   💬 **Discord Manager:** Steuere deinen Server direkt aus dem Densory Dashboard! Sende Embeds, lies den Live-Chat, analysiere Nachrichten und erstelle automatisierte Zeitpläne (Automations)[cite: 1].
+*   🛡️ **Security & Anti-Nuke:** Schütze deinen Server vor Raids. Inklusive Phishing-Domain-Erkennung (Threat-Feed), Auto-Moderation und Eskalations-Systemen.
+*   🔐 **Verify & Authentifizierung:** Das sicherste Gate für deine Community. Mit Alt-Account-Erkennung (Browser-Fingerprinting), VPN-Blocker und Captcha-Integration.
+*   📊 **Logger & Analytics:** Behalte alles im Blick. Detaillierte Audit-Logs, Server-Statistiken, Live-Metriken und eine Custom-API, um externe Systeme (wie FiveM) direkt in Discord zu loggen.
+*   💬 **Discord Manager:** Steuere deinen Server direkt aus dem Densory Dashboard! Sende Embeds, lies den Live-Chat, analysiere Nachrichten und erstelle automatisierte Zeitpläne (Automations).
 
 ### 🏎️ FiveM Scripts
-Entwickelt für maximale Performance. Unsere Scripts integrieren sich nahtlos in dein bestehendes Framework (ESX / QBCore) und erweitern deinen Server um tiefgreifende, ressourcenschonende Features[cite: 1]. Durch die direkte Anbindung an das Densory Dashboard behältst du In-Game-Metriken und Logs in Echtzeit im Auge[cite: 1].
+Entwickelt für maximale Performance. Unsere Scripts integrieren sich nahtlos in dein bestehendes Framework (ESX / QBCore) und erweitern deinen Server um tiefgreifende, ressourcenschonende Features. Durch die direkte Anbindung an das Densory Dashboard behältst du In-Game-Metriken und Logs in Echtzeit im Auge.
 
 ---
 
 ## ⚙️ Das Densory Control Center
 Das Herzstück deiner Infrastruktur. Ein modernes, sicheres Web-Interface, das dir folgende Möglichkeiten bietet:
-- **Lizenzverwaltung:** Produkte verlängern, upgraden oder auf andere Server transferieren[cite: 1].
-- **Team-Kollaboration:** Integrierter Team-Chat und geteilte Settings (Teile Produkt-Einstellungen per Freigabe-Code)[cite: 1].
-- **Sichere Zahlungsabwicklung:** Transparente Abrechnungen via PayPal (Freunde & Familie oder Auto-Abwicklung) sowie Kryptowährungen (Bitcoin, Ethereum, Solana, etc.)[cite: 1].
+- **Lizenzverwaltung:** Produkte verlängern, upgraden oder auf andere Server transferieren.
+- **Team-Kollaboration:** Integrierter Team-Chat und geteilte Settings (Teile Produkt-Einstellungen per Freigabe-Code).
+- **Sichere Zahlungsabwicklung:** Transparente Abrechnungen via PayPal sowie Kryptowährungen (Bitcoin, Ethereum, Solana, etc.).
 
 ---
 
